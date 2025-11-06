@@ -1,0 +1,51 @@
+"favorites_recently_viewed" = "Son Gezindiklerin";
+"favorites_favorites" = "Favoriler";
+
+// Search
+"search_title" = "Ara";
+"search_placeholder" = "Film ara";
+"search_empty" = "Film bulunamadı";
+
+// General
+"general_error_title" = "Hata";
+"general_ok" = "Tamam";
+"general_oops" = "Hoppala";
+
+// Sections
+"section_cast" = "Oyuncular";
+"section_recommended" = "Önerilen";
+
+// Navigation
+"nav_home" = "Ana Sayfa";
+
+// Movie Detail Labels
+"detail_original_title_label" = "Orijinal Başlık";
+"detail_original_language_label" = "Orijinal Dil";
+"detail_release_date_label" = "Yayın Tarihi";
+"detail_budget_label" = "Bütçe";
+"detail_production_companies_label" = "Yapımcı Şirketler";
+"detail_revenue_label" = "Hasılat";
+"detail_genres_label" = "Türler";
+"detail_runtime_label" = "Süre";
+"detail_runtime_minutes" = "%d dk";
+"detail_homepage_label" = "Resmi Site";
+"detail_homepage_link" = "Resmi Web Sitesini Ziyaret Et";
+
+// Movie List Sections
+"movielist_section_popular" = "Popüler";
+"movielist_section_top_rated" = "En Beğenilen";
+"movielist_section_upcoming" = "Yakında";
+"movielist_section_now_playing" = "Vizyonda";
+
+// Person
+"gender_female" = "Kadın";
+"gender_male" = "Erkek";
+"gender_other" = "Diğer";
+"person_cast_member_title" = "Oyuncu";
+"person_biography" = "Biyografi";
+"person_no_biography" = "Biyografi yok";
+"person_birthday" = "Doğum Tarihi";
+"person_place_of_birth" = "Doğum Yeri";
+"person_death" = "Ölüm";
+"person_personal_info" = "Kişisel Bilgiler";
+"person_value_empty" = "—";

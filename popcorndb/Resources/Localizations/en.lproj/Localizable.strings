@@ -1,0 +1,51 @@
+"favorites_recently_viewed" = "Recently Viewed";
+"favorites_favorites" = "Favorites";
+
+// Search
+"search_title" = "Search";
+"search_placeholder" = "Search for movies";
+"search_empty" = "No movies found";
+
+// General
+"general_error_title" = "Error";
+"general_ok" = "OK";
+"general_oops" = "Oops";
+
+// Sections
+"section_cast" = "Cast";
+"section_recommended" = "Recommended";
+
+// Navigation
+"nav_home" = "Home";
+
+// Movie Detail Labels
+"detail_original_title_label" = "Original Title";
+"detail_original_language_label" = "Original Language";
+"detail_release_date_label" = "Release Date";
+"detail_budget_label" = "Budget";
+"detail_production_companies_label" = "Production Companies";
+"detail_revenue_label" = "Revenue";
+"detail_genres_label" = "Genres";
+"detail_runtime_label" = "Runtime";
+"detail_runtime_minutes" = "%d min";
+"detail_homepage_label" = "Homepage";
+"detail_homepage_link" = "Visit Official Website";
+
+// Movie List Sections
+"movielist_section_popular" = "Popular";
+"movielist_section_top_rated" = "Top Rated";
+"movielist_section_upcoming" = "Upcoming";
+"movielist_section_now_playing" = "Now Playing";
+
+// Person
+"gender_female" = "Female";
+"gender_male" = "Male";
+"gender_other" = "Other";
+"person_cast_member_title" = "Cast Member";
+"person_biography" = "Biography";
+"person_no_biography" = "No biography available";
+"person_birthday" = "Birthday";
+"person_place_of_birth" = "Place of Birth";
+"person_death" = "Death";
+"person_personal_info" = "Personal Info";
+"person_value_empty" = "—";
